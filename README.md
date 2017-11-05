@@ -24,7 +24,7 @@ A Relational Database (Postgres) was used at the API as the domain model of a sc
 
 ## Authentication
 
-A very basic database authentication was used just for a better user experience. A more secure and better authentication implementation would be used for a real world case.
+A very basic database authentication was used just for a better user feedback. A more secure and better authentication implementation would be used for a real world case.
 
 ## UI/UX
 
